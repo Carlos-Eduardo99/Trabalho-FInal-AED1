@@ -12,7 +12,7 @@ O programa deve conter as seguintes especificações:
 
 - Utilizar laços de repetição e estruturas condicionais, como e quantos forem necessários;
 
-- usar, obrigatoriamente: 
+- Usar, obrigatoriamente: 
 
   + vetores e matrizes; 
 
@@ -22,5 +22,5 @@ O programa deve conter as seguintes especificações:
 
   + persistência de dados em arquivos: o programa deve salvar os dados em arquivo(s) de texto plano, os quais serão carregados num segundo carregamento.
 
-- permitir a interação com o usuário;
+- Permitir a interação com o usuário;
 - A aplicação deve possuir um menu para escolha das operações.
