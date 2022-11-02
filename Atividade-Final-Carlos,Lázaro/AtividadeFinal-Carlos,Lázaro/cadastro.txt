@@ -1,0 +1,15 @@
+X;X;X;X;X;X;X;X;
+lazaro;rex;poodle;marrom;P;F;N;28/06/2019;
+Carlos;mel;viralata;preto;M;F;S;28/06/2019;
+Eduardo;Keite;viralata;marrom;P;F;S;28/06/2019;
+Sousa;Bethoven;viralata;branco;P;M;S;28/06/2019;
+Augusta;Valentina;Vira;Lata;P;F;S;28/06/2019;
+Saulo;Walma;viralata;vermelho;G;F;N;28/06/2019;
+Laura;Morena;Viralata;Marrom;G;M;S;28/06/2019;
+Gabriel;fred;poodle;branca;M;F;S;29/06/2019;
+Marcelo;Kog;poodle;Marrom;M;M;S;30/06/2019;
+Lucas;Bethoven;Preto;Branca;P;M;S;02/07/2019;
+Luiz;Kaka;poodle;Preta;M;M;S;01/03/2019;
+
+Yago;lulu;cachorro;rosa;P;M;S;11/08/2011;
+Paulo;r;vira;lata;P;M;S;04/08/2022;

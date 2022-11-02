@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1561390570 source:c:\users\mariana\documents\trablhofinal-mariana,lázaro\main.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<stdlib.h>
+
+1561748355 source:c:\users\carlos eduardo\desktop\trablhofinal-carlos,lázaro\main.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<stdlib.h>
+	<string>
+
+1562011207 source:c:\users\carlos eduardo\desktop\faculdade\atividades de aed 1\atividade-final-carlos,lázaro\atividadefinal-carlos,lázaro\main.cpp
+	<iostream>
+	<locale.h>
+	<fstream>
+	<stdlib.h>
+	<string>
+
