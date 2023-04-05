@@ -6,8 +6,6 @@ A construção do algoritmo se fundamenta na resolução de um problema do mundo
 
 O programa deve conter as seguintes especificações:
 
-- Utilizar o CodeBlocks e a linguagem C++ para construção do programa;
-
 - Utilizar quantas variáveis forem necessárias;
 
 - Utilizar laços de repetição e estruturas condicionais, como e quantos forem necessários;
